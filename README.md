@@ -1,5 +1,5 @@
 # Istilah-istilah-pada-GIT
-<h1>SYNTAX GIT</h1>
+<h1 align="center">SYNTAX GIT</h1>
 <hr>
 
 
